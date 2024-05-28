@@ -1,3 +1,3 @@
 # Organização e Recuperação de Dados
 
-Repositório contendo os códigos desenvolvidos durante a disciplina de Organização e Recuperação de Dados - 6897, 3° semestre do curso de Ciência da Computação - 2024
+Repositório contendo os códigos desenvolvidos durante a disciplina de Organização e Recuperação de Dados - 6897, 3° semestre do curso de Ciência da Computação UEM - 2024
