@@ -13,9 +13,9 @@ def leia_reg(ENTRADA):
 
 def le_registros():
     NOME_ARQ = input("Informe o nome do arquivo: ")
-    contador = 0
+    contador = 1
     try:
-        ENTRADA = open(NOME_ARQ, 'r+b')
+        ENTRADA = open(NOME_ARQ, 'rb')
         buffer = leia_reg(ENTRADA)
 
         while buffer != "":

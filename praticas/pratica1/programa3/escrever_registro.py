@@ -21,7 +21,7 @@ def escreve_registros():
         buffer += estado_campo + "|"
 
         cep_campo = input("Digite o CEP: ")
-        buffer += cep_campo + "|"
+        buffer += cep_campo
 
 
         buffer_binario = buffer.encode()
