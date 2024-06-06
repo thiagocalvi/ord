@@ -1,3 +1,7 @@
+#1. Foi visto em aula um programa que lê um arquivo texto e o escreve em tela (slide 24 do arquivo
+#“Operações em Arquivos.pdf”). Modifique esse programa para que ele leia os dados a partir da entrada
+#padrão, em vez de um arquivo, e os escreva em um arquivo, em vez da saída padrão.
+
 def main():
     nomeArq = input("Informe o nome do arquivo: ")
     input_operacao = input("Informe a  operação [leitura = r], [escrita = w]")
